@@ -1,1 +1,1 @@
-This app is only for deployment purposes. 
+This app is only for testing deployment purposes. 
